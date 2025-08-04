@@ -1,0 +1,10 @@
+apple
+elephant
+tree
+egg
+giraffe
+ear
+rock
+kite
+train
+night
