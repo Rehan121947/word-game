@@ -1,0 +1,7 @@
+apple
+elephant
+tree
+egg
+grape
+engine
+eagle
